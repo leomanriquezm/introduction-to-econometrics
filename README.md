@@ -1,5 +1,5 @@
 # Introduction-to-econometrics
- An introductory course in econometrics for undergraduates. 
+ An introductory course in econometrics for undergraduates through  Python.
  
 ## Sobre el archivo **df_example**
 El archivo contiene información para las siguientes variables:
