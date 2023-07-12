@@ -1,6 +1,4 @@
 #Ejemplo de datos en formato texto
-
-
   Y   X
   1   3
   3   4
