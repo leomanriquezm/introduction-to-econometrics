@@ -1,3 +1,3 @@
 # Introduction-to-econometrics
- An introductory course in econometrics for undergraduates through  Python.
+ An introductory course in econometrics for undergraduates with examples in Python.
  
