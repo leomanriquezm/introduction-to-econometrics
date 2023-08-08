@@ -1,0 +1,7 @@
+100 observaciones, para las cuales se tiene:
+EdadClientes, edad promedio de clientes;	
+PrecioProducto, precio promedio de productos;
+Publicidad, variable dicotómica, asume el valor 1 si el tipo de publicidad es el tipo 1 y asume el valor 0 en otro caso;	
+Descuento, descuento promedio; 	
+UbicacionTienda, representa ubicación, asume valores como "Centro", "Periferia" y "Online"; y	
+Ventas, nivel de ventas.
